@@ -1,0 +1,18 @@
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\bin\Debug\ders 9 (panel kulanımı).exe.config
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\bin\Debug\ders 9 (panel kulanımı).exe
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\bin\Debug\ders 9 (panel kulanımı).pdb
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders_9__panel_kulanımı_.Form1.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders_9__panel_kulanımı_.Properties.Resources.resources
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).exe
+C:\Users\Öğrenci\Documents\yusuf gülsül\yusuf gülsül 10M\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).pdb
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\bin\Debug\ders 9 (panel kulanımı).exe.config
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).exe
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).pdb
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\bin\Debug\ders 9 (panel kulanımı).exe
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\bin\Debug\ders 9 (panel kulanımı).pdb
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders_9__panel_kulanımı_.Form1.resources
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders_9__panel_kulanımı_.Properties.Resources.resources
+C:\Users\Pc\Desktop\panel_webbrowser-main\panel_webbrowser-main\ders 9 (panel kulanımı)\ders 9 (panel kulanımı)\obj\Debug\ders 9 (panel kulanımı).csproj.GenerateResource.Cache
